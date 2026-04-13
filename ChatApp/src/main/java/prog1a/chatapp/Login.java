@@ -6,7 +6,7 @@ package prog1a.chatapp;
 
 /**
  *
- * @author victo
+ * @author victor
  */
 public class Login {
 
