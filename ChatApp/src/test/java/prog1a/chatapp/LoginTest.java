@@ -6,7 +6,7 @@ package prog1a.chatapp;
 
 /**
  *
- * @author victo
+ * @author victor
  */
 import org.junit.jupiter.api.Test;
 import prog1a.chatapp.Login;
