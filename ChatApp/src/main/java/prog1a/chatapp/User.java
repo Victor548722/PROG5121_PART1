@@ -7,7 +7,7 @@ package prog1a.chatapp;
 
 /**
  *
- * @author victo
+ * @author victor
  */
 public class User {
     // Fields to store user information
