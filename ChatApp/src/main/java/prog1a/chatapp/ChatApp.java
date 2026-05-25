@@ -20,7 +20,7 @@ public class ChatApp {//1
         String regUser = "", regPass = "", fName = "", lName = "", cell = "";
         boolean isRegistered = false;
 
-        System.out.println("Welcome to RChat");
+        System.out.println("Welcome to Quick Chat");
 
         while (true) {//3
             System.out.println("\n ---Main Menu---");
