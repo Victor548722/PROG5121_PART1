@@ -4,3 +4,4 @@ ChatApp/target/surefire-reports/TEST-prog1a.chatapp.LoginTest.xml
 ChatApp/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
 *.lst
 ChatApp/target/ChatApp-1.0-SNAPSHOT.jar
+/ChatApp/nbproject/

@@ -87,7 +87,7 @@ public class ChatApp {
                     }
                 }
             } else if (choice.equals("3")) {
-                System.out.println("Goodbye from RChat!");
+                System.out.println("Goodbye from Quick Chat!");
                 break;
             } else {
                 System.out.println("Invalid choice. Enter 1 to 3.");
