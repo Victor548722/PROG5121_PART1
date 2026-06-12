@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="prog1a_part3_chatapp.MessageManagerTest" time="0.063" tests="6" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="prog1a_part3_chatapp.MessageManagerTest" time="0.018" tests="6" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,9 +15,8 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Apache NetBeans\jdk\bin"/>
-    <property name="sun.java.command" value="C:\Users\victo\AppData\Local\Temp\surefire10817583557739015110\surefirebooter-20260612143816409_3.jar C:\Users\victo\AppData\Local\Temp\surefire10817583557739015110 2026-06-12T14-38-16_306-jvmRun1 surefire-20260612143816409_1tmp surefire_0-20260612143816409_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\victo\AppData\Local\Temp\surefire3397773282412420879\surefirebooter-20260612153524757_3.jar C:\Users\victo\AppData\Local\Temp\surefire3397773282412420879 2026-06-12T15-35-24_655-jvmRun1 surefire-20260612153524757_1tmp surefire_0-20260612153524757_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="test" value="prog1a_part3_chatapp.MessageManagerTest"/>
     <property name="surefire.test.class.path" value="C:\Users\victo\OneDrive\Documents\GitHub\PROG5121_PART1\ChatApp\target\test-classes;C:\Users\victo\OneDrive\Documents\GitHub\PROG5121_PART1\ChatApp\target\classes;C:\Users\victo\.m2\repository\org\scala-native\junit-runtime_native0.4_3\0.4.17\junit-runtime_native0.4_3-0.4.17.jar;C:\Users\victo\.m2\repository\org\scala-native\test-interface-sbt-defs_native0.4_3\0.4.17\test-interface-sbt-defs_native0.4_3-0.4.17.jar;C:\Users\victo\.m2\repository\org\scala-native\scala3lib_native0.4_3\0.4.17\scala3lib_native0.4_3-0.4.17.jar;C:\Users\victo\.m2\repository\org\scala-native\auxlib_native0.4_3\0.4.17\auxlib_native0.4_3-0.4.17.jar;C:\Users\victo\.m2\repository\org\scala-native\nativelib_native0.4_3\0.4.17\nativelib_native0.4_3-0.4.17.jar;C:\Users\victo\.m2\repository\org\scala-native\javalib_native0.4_3\0.4.17\javalib_native0.4_3-0.4.17.jar;C:\Users\victo\.m2\repository\org\scala-native\posixlib_native0.4_3\0.4.17\posixlib_native0.4_3-0.4.17.jar;C:\Users\victo\.m2\repository\org\scala-native\windowslib_native0.4_3\0.4.17\windowslib_native0.4_3-0.4.17.jar;C:\Users\victo\.m2\repository\org\scala-native\clib_native0.4_3\0.4.17\clib_native0.4_3-0.4.17.jar;C:\Users\victo\.m2\repository\org\scala-native\scalalib_native0.4_2.13\0.4.17\scalalib_native0.4_2.13-0.4.17.jar;C:\Users\victo\.m2\repository\org\scala-lang\scala3-library_3\3.1.3\scala3-library_3-3.1.3.jar;C:\Users\victo\.m2\repository\org\scala-lang\scala-library\2.13.8\scala-library-2.13.8.jar;C:\Users\victo\.m2\repository\org\junit\jupiter\junit-jupiter\6.1.0\junit-jupiter-6.1.0.jar;C:\Users\victo\.m2\repository\org\junit\jupiter\junit-jupiter-api\6.1.0\junit-jupiter-api-6.1.0.jar;C:\Users\victo\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\victo\.m2\repository\org\junit\platform\junit-platform-commons\6.1.0\junit-platform-commons-6.1.0.jar;C:\Users\victo\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\victo\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\victo\.m2\repository\org\junit\jupiter\junit-jupiter-params\6.1.0\junit-jupiter-params-6.1.0.jar;C:\Users\victo\.m2\repository\org\junit\jupiter\junit-jupiter-engine\6.1.0\junit-jupiter-engine-6.1.0.jar;C:\Users\victo\.m2\repository\org\junit\platform\junit-platform-engine\6.1.0\junit-platform-engine-6.1.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\victo"/>
@@ -31,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\victo\AppData\Local\Temp\surefire10817583557739015110\surefirebooter-20260612143816409_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\victo\AppData\Local\Temp\surefire3397773282412420879\surefirebooter-20260612153524757_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="25.0.2+10-LTS"/>
@@ -62,10 +61,10 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase name="testSearchByMessageID" classname="prog1a_part3_chatapp.MessageManagerTest" time="0.028"/>
-  <testcase name="testSentMessagesPopulated" classname="prog1a_part3_chatapp.MessageManagerTest" time="0.007"/>
+  <testcase name="testSearchByMessageID" classname="prog1a_part3_chatapp.MessageManagerTest" time="0.005"/>
+  <testcase name="testSentMessagesPopulated" classname="prog1a_part3_chatapp.MessageManagerTest" time="0.002"/>
   <testcase name="testGetLongestStoredMessage" classname="prog1a_part3_chatapp.MessageManagerTest" time="0.002"/>
   <testcase name="testDeleteMessageByHash" classname="prog1a_part3_chatapp.MessageManagerTest" time="0.002"/>
-  <testcase name="testSearchByRecipient" classname="prog1a_part3_chatapp.MessageManagerTest" time="0.002"/>
-  <testcase name="testGenerateFullReport" classname="prog1a_part3_chatapp.MessageManagerTest" time="0.002"/>
+  <testcase name="testSearchByRecipient" classname="prog1a_part3_chatapp.MessageManagerTest" time="0.001"/>
+  <testcase name="testGenerateFullReport" classname="prog1a_part3_chatapp.MessageManagerTest" time="0.001"/>
 </testsuite>
